@@ -1,0 +1,5 @@
+---
+title: "website_quarto"
+---
+
+Hi, my name is Xingjie Yao. I’m a student at the University of Toronto majoring in Actuarial Science and Statistics.
